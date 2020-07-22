@@ -1,0 +1,7 @@
+{
+  "name": "ionini-react-app-3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
